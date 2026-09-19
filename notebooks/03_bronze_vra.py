@@ -15,7 +15,7 @@
 
 from pyspark.sql import functions as F
 
-CAMINHO = "/Volumes/voebem/bronze/arquivos/vra/vra/*.csv"
+CAMINHO = "/Volumes/voebem/bronze/arquivos/vra/*.csv"
 TABELA = "voebem.bronze.vra"
 
 # COMMAND ----------
